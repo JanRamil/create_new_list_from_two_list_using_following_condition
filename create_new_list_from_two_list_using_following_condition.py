@@ -27,5 +27,8 @@ def merge_list(list1, list2):
 list1 = [10, 20, 25, 30, 35]
 list2 = [40, 45, 60, 75, 90]
 
+# Create a code that will print the result of new list
+print("The new list is: ", merge_list(list1, list2))
+
 
     
