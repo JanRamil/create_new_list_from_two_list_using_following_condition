@@ -2,3 +2,9 @@
 # Exercise 10
 
 # Create pseudocode
+
+# Create a code to present 
+def merge_list(list1, list2):
+    result_list = []
+    
+    
