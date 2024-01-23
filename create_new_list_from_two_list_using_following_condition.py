@@ -7,4 +7,17 @@
 def merge_list(list1, list2):
     result_list = []
     
+# Create code that will iterate the first list
+    for num in list1:
+        # Create a code that will check if it is odd
+        if num % 2 != 0:
+        # Create a code that will add the number to the new list
+            result_list.append(num)
+
+
+        
+# Create code for the two given lists 
+list1 = [10, 20, 25, 30, 35]
+list2 = [40, 45, 60, 75, 90]
+
     
